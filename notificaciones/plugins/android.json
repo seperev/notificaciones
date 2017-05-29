@@ -24,6 +24,12 @@
         },
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "com.ionicframework.notificaciones968135"
+        },
+        "cordova-plugin-email": {
+            "PACKAGE_NAME": "com.ionicframework.notificaciones968135"
+        },
+        "cordova-plugin-email-composer": {
+            "PACKAGE_NAME": "com.ionicframework.notificaciones968135"
         }
     },
     "dependent_plugins": {}
